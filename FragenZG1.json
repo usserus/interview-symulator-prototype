@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "Erzählen Sie mir etwas über sich."
+    },
+    {
+      "question": "Warum möchten Sie in unserem Unternehmen arbeiten?"
+    },
+    {
+      "question": "Welche Stärken bringen Sie mit?"
+    },
+    {
+      "question": "Was sind Ihre Schwächen?"
+    },
+    {
+      "question": "Wo sehen Sie sich in fünf Jahren?"
+    },
+    {
+      "question": "Können Sie ein Beispiel für eine schwierige Situation nennen, die Sie gemeistert haben?"
+    },
+    {
+      "question": "Wie gehen Sie mit Stress oder Druck um?"
+    },
+    {
+      "question": "Warum haben Sie Ihren letzten Job verlassen?"
+    },
+    {
+      "question": "Was motiviert Sie in Ihrer Arbeit?"
+    },
+    {
+      "question": "Haben Sie Fragen an uns?"
+    }
+  ]
+}
